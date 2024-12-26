@@ -3,9 +3,9 @@ Ex no: 1
 
 Date : 
 
-Name :
+Name : AJAY S
 
-Register number :
+Register number : 24900457
 
 # Aim : 
 
